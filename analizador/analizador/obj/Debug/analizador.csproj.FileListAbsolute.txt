@@ -1,0 +1,7 @@
+C:\Users\yolca\source\repos\analizador\analizador\bin\Debug\analizador.exe.config
+C:\Users\yolca\source\repos\analizador\analizador\bin\Debug\analizador.exe
+C:\Users\yolca\source\repos\analizador\analizador\bin\Debug\analizador.pdb
+C:\Users\yolca\source\repos\analizador\analizador\obj\Debug\analizador.csproj.AssemblyReference.cache
+C:\Users\yolca\source\repos\analizador\analizador\obj\Debug\analizador.csproj.CoreCompileInputs.cache
+C:\Users\yolca\source\repos\analizador\analizador\obj\Debug\analizador.exe
+C:\Users\yolca\source\repos\analizador\analizador\obj\Debug\analizador.pdb
